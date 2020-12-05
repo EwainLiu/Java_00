@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/qst/dms/entity/User.java=UTF-8
+encoding//src/com/qst/dms/gather/DataFilter.java=UTF-8
+encoding//src/com/qst/dms/gather/IDataAnalyse.java=UTF-8
+encoding//src/com/qst/dms/gather/TransportAnalyse.java=UTF-8
+encoding//src/com/qst/dms/service/UserService.java=UTF-8
+encoding//src/com/qst/dms/ui/JTableDemo.java=UTF-8
+encoding//src/com/qst/dms/ui/MainFrametest2.java=UTF-8
+encoding//src/com/qst/dms/ui/RegistFrame.java=UTF-8
+encoding//src/com/qst/dms/util=GBK
+encoding//src/com/qst/dms/util/Config.java=UTF-8
+encoding/<project>=UTF-8
